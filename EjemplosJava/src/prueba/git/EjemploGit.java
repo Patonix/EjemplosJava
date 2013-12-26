@@ -6,6 +6,7 @@ public class EjemploGit {
 	{
 		System.out.println("Hola Mundo");
 		System.out.println("Prueba 1");
+		System.out.println("Prueba 2");
 	}
 	
 }
