@@ -8,7 +8,7 @@ public class EjemploGit {
 		System.out.println("Prueba 1");
 		System.out.println("Prueba 2");
 		System.out.println("Se hace un cambio desde el depto");
-		System.out.println("Se hace un cambio desde el Github2");
+		System.out.println("Se hace un cambio desde el Github3");
 	}
 	
 }
