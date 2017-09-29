@@ -8,7 +8,7 @@ public class EjemploGit {
 		System.out.println("Prueba 1");
 		System.out.println("Prueba 2");
 		System.out.println("Prueba en eclipse BCI");
-		System.out.println("Prueba en eclipse BCI --2");
+		System.out.println("Prueba en eclipse BCI --3");
 		System.out.println("Ejemplo para probar merge");
 		System.out.println("Modificaciones desde Github");
 		System.out.println("Se hace un cambio desde el depto");
